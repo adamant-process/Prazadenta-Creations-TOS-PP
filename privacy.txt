@@ -1,0 +1,17 @@
+Terms of Service
+----------
+We respect your privacy and strive to minimize data collection. Here's how we handle your information:
+
+- Data Collection: We may collect basic usage data (e.g., commands used, server IDs) to improve functionality.
+- Third-Party Services: Our bots and websites may interact with third-party platforms (e.g., Discord, analytics tools). Their data policies apply independently.
+- Storage & Security: Any stored data is kept securely and only used to maintain or improve our services.
+- No Personal Tracking: We do not track personal identities, locations, or behavior across platforms.
+- Data Removal: You may request deletion of any stored data by contacting us.
+----------
+
+Help
+----------
+If you have questions or concerns, contact the developer at: https://discord.gg/pV5NqjXtgE
+----------
+
+Last updated: October 21, 2025
